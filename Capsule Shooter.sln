@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A7AB3AA1-A563-DE97-3330-0D3969995E05}") = "Capsule Shooter", "Assembly-CSharp.csproj", "{60B710A7-D13B-3A2F-A2D1-14AD8988AF20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60B710A7-D13B-3A2F-A2D1-14AD8988AF20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60B710A7-D13B-3A2F-A2D1-14AD8988AF20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60B710A7-D13B-3A2F-A2D1-14AD8988AF20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60B710A7-D13B-3A2F-A2D1-14AD8988AF20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
